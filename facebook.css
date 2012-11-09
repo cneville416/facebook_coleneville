@@ -1,0 +1,264 @@
+body {
+	padding:0px;
+	margin:0px;
+	font-family:"lucida sans";
+}
+
+header {
+	height:34px;
+	position:fixed;
+	top:0px;
+	width:100%;
+	overflow:auto;
+	border-bottom: 1px solid #133783;
+	-webkit-box-shadow: 1px 1px 4px #222; /* Safari and Chrome */
+	box-shadow: 1px 1px 4px #222;
+	background:#3B5998;
+	
+}
+
+header div.wrapper ul li {
+	float:left;
+}
+
+div.wrapper {
+	margin-top:34px;
+	width:981px;
+	margin:0px auto;
+}
+
+/* ICON STYLES */
+i {
+	display:inline-block;
+	height:16px;
+	width:16px;	
+	background:url(images/fb-icon-set.png);
+}
+
+#name {
+	color:#fff;
+	font-size:16pt;
+	font-family:tahoma;
+	font-weight:bold;
+	padding:0px 0px 5px 10px;
+}
+
+h4 a{
+	color:#3B5998;
+	font-size:13px;
+	text-decoration:none;
+	margin:0px;
+	padding:0px;
+}
+
+ul li a {
+	color:#000;
+	text-decoration:none;
+}
+
+ul {
+	list-style:none;
+}
+
+header .wrapper ul li {
+	float:left;
+	padding:5px 0px 0px 7px;
+	display:block;
+}
+
+.profile img {
+	width:60px;
+	height:60px;
+	padding: 50px 0px 0px 0px;
+	float:left;
+}
+
+.profile h4 {
+	margin:0px 0px 0px 0px;
+	padding:70px 5px 0px 65px;
+	text-decoration:none;
+	
+}
+
+.profile {
+	overflow:auto
+}
+
+.requests {
+	background-position:-28px -253px;
+}
+
+header .messages {
+	background-position: -32px -8px;
+}
+
+.notifications {
+	background-position: -35px -79px;
+}
+
+.wrapper ul{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+
+div img {
+	width:80px;
+	height:80px;
+}
+
+div a {
+	color:#3B5998;
+}
+
+h3 {
+	font-size:9px;	
+	padding-top:25px;
+	color:#AEAEAE;
+}
+
+li a i {
+	float:left;
+	padding:0px;
+	margin:0px;
+}
+
+ul {
+	padding:0px;
+}
+
+#name a {
+	color:#FFF;
+}
+
+.news {
+	background-position:-49px -559px;;
+}
+
+nav .messages {
+	background-position:-51px -425px;
+}
+
+.events {
+	background-position:-53px -576px;
+}
+
+.photos {
+	background-position:-66px -559px;
+}
+
+.music {
+	background-position:-69px -475px;
+}
+
+header .wrapper ul {
+	margin:0px 0px 0px 0px;
+	padding:3px 0px 0px 0px;
+}
+
+input[type=text] {
+	padding-bottom:0px;
+	width:300px;
+}
+
+.wrapper h3 ul {
+	float:left;
+}
+
+.first-post {
+	border-bottom:1px solid #ccc;
+	margin:0px 8px 0px 8px;
+}
+
+#feed {
+	border:1px solid #ccc;
+	float:left;
+	width:800px;
+}
+
+.post img {
+	padding-top:10px;
+}
+
+#feed h3 {
+	padding:5px 0px 5px 8px;
+	border-bottom:1px solid #ccc;
+	border-top:1px solid #ccc;
+	margin-top:45px;
+	
+}
+
+nav ul li a {
+	font-size:12px;
+	font-weight:bold;
+	margin-left:3px;
+}
+
+nav ul li {
+	width:100px;
+	margin:0px;
+	padding:0px;
+}
+
+nav ul {
+	margin:0px;
+	padding:0px;
+	width:125px;
+}
+
+nav h3 {
+	margin:0px;
+	margin-bottom:10px;
+}
+
+.wrapper nav {
+	float:left;
+}
+
+.post img {
+	width:80px;
+	margin:0px 10px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+}
+
+.post {
+	border-bottom:1px solid #ccc;
+	margin:0px 8px 0px 8px;
+	padding:10px 0px 0px 10px
+}
+
+.content h4 {
+	margin:0px 0px 0px 0px;
+	text-decoration:none;
+}
+
+.content p {
+	padding: 8px 5px 0px 90px;
+	margin:0px;
+	font-size:13px;
+}
+
+.post:last-child {
+	border:none;
+}
+
+.meta {
+	font-size:12px;
+	color: #999999;
+	padding-left:90px;
+}
+
+footer {
+	padding-left:145px;
+	font-size:12px;
+	color:#999
+}
+
+nav ul li a i {
+	margin-left:10px;
+}
+
+.current {
+	background:#D8DFEA;
+	width:145px;
+}
